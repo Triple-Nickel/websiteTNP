@@ -1,1 +1,2 @@
-# websiteTNP
+# triplenickelsite
+the website in hugo
